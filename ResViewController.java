@@ -1,10 +1,5 @@
 
-/*
- * Copyright © Connor Reilly 
- * November 18, 2017
- * Resume Builder
- * ResViewController.java
- */
+
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
