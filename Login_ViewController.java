@@ -1,10 +1,4 @@
-/*
-*Connor Reilly 
-*Resume Builder 
-*ITMD 510 Final Project
-*December 2017
-*Login_ViewController
-*/
+
 
 import java.io.IOException;
 import java.net.URL;
